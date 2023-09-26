@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+body{
+    background-color: #363432;
+}
+
+main{
+    position: relative;
+    margin: auto;
+    width: 300px;
+    background-color: #E5DED5;
+    padding: 5px;
+    text-align: center;
+    top: 30px;
+    border-radius: 15px;
+}
+
+h1{
+    position: relative;
+    top: 10px;
+    color: #363432;
+}
+
+#caixa_texto{
+    background-color: #c9c1b6;
+    color: #4C3E3C;
+    padding: 2px;
+}
+
+form{
+    position: relative;
+    top: 20px;
+}
+
+#btn{
+    background-color: #8B7B76;
+    border: none;
+    color: white;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+ul{
+    text-align: left;
+    font-size: 20px;
+    color: #4C3E3C;
+    margin-left: 20px;
+}
+
+.apagar{
+    background-color: #8B7B76;
+    border: none;
+    color: white;
+    padding: 4px;
+    border-radius: 3px;
+}
